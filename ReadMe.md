@@ -57,7 +57,7 @@
 
 #### 链接
 
-
+[机器学习思维导图](https://github.com/ethanww/machine-learning-notes/blob/master/machine-learning-Zhou-Zhihua/ReadMe.md)
 
 ### 二、Neural Networks for Machine Learning Lecture笔记
 
